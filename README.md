@@ -29,3 +29,9 @@ Our frame detector uses STDP learning rule and updates synaptic weights accordin
 To control nonlinearity (memristive characteristic), you should change the three parameters: vLTP, vLTD, and beta (b).
 We add the three parameters in our mani Python file, so you can easily find and change them.
 If you have questions, please email me.
+
+# Dataset
+We generate datasets consisting of Wi-Fi preamble samples and noise samples.
+We compress a sample dataset and upload it at this repository.
+If you need additional datasets, please email me.
+I will provide you with the additional datasets as soon as possible.
