@@ -35,3 +35,6 @@ We generate datasets consisting of Wi-Fi preamble samples and noise samples.
 We compress a sample dataset and upload it at this repository.
 If you need additional datasets, please email me.
 I will provide you with the additional datasets as soon as possible.
+
+# Paper
+https://doi.org/10.1016/j.comcom.2023.06.006
